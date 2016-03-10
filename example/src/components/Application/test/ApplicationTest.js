@@ -1,4 +1,5 @@
 import React from "react";
+import Radium from "radium";
 import testTree from "react-test-tree";
 
 import {ApplicationComponent as Application} from "../Application.js";

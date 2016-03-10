@@ -53,6 +53,9 @@
   "jspm": {
     "registry": "npm",
     "configFile": "system.config.js",
+    "dependencies": {
+      "nfl/radium": "github:nfl/radium@test-mode"
+    },
     "devDependencies": {
       "cookies-js": "^1.2.2",
       "debounce": "^1.0.0",
@@ -62,7 +65,7 @@
       "invariant": "^2.2.0",
       "isomorphic-fetch": "^2.2.0",
       "parse-domain": "^0.2.0",
-      "radium": "^0.15.3",
+      "radium": "github:nfl/radium@test-mode",
       "radium-plugin-prefix-all": "^1.0.0",
       "react": "^0.14.3",
       "react-addons-test-utils": "^0.14.3",

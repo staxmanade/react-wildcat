@@ -49,7 +49,7 @@
       "babel-runtime": "npm:babel-runtime@^5.8.25",
       "core-js": "npm:core-js@^1.2.6",
       "isomorphic-fetch": "npm:isomorphic-fetch@^2.2.0",
-      "radium": "npm:radium@^0.15.3",
+      "radium": "github:nfl/radium@test-mode",
       "react": "npm:react@^0.14.3",
       "react-dom": "npm:react-dom@^0.14.3",
       "react-helmet": "npm:react-helmet@^2.1.1",

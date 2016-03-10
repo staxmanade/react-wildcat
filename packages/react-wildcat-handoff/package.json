@@ -11,17 +11,16 @@
     "isomorphic-fetch": "^2.2.1",
     "match-media-mock": "^0.1.0",
     "parse-domain": "^0.2.0",
-    "radium": "^0.15.3",
-    "react-router": "^2.0.0",
+    "radium": "nfl/radium.git#test-mode",
     "radium-plugin-prefix-all": "^1.0.1",
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
     "react-helmet": "^2.3.1",
+    "react-router": "^2.0.0",
     "react-wildcat-hot-reloader": "1.1.0"
   },
   "devDependencies": {
-    "babel": "^5.8.29",
-    "rimraf": "^2.5.1"
+    "babel": "^5.8.29"
   },
   "jspm": {
     "directories": {
